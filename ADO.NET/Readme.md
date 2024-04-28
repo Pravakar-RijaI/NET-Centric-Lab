@@ -1,0 +1,1 @@
+This directory includes source code for working with ADO.NET related projects.
