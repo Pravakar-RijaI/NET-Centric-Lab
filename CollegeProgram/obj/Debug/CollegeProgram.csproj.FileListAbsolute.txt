@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\CollegeProgram\bin\Debug\CollegeProgram.exe.config
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\CollegeProgram\bin\Debug\CollegeProgram.exe
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\CollegeProgram\bin\Debug\CollegeProgram.pdb
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\CollegeProgram\obj\Debug\CollegeProgram.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\CollegeProgram\obj\Debug\CollegeProgram.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\CollegeProgram\obj\Debug\CollegeProgram.exe
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\CollegeProgram\obj\Debug\CollegeProgram.pdb
