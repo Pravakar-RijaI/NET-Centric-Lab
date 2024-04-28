@@ -1,0 +1,22 @@
+﻿@model NumberModel
+
+<form asp-controller="Calculation" asp-action="AddTwoNumbers" method="post">
+    <p>
+        <label asp-for="FirstNumber">Enter First Number: </label>
+    </p>
+    <p>
+        <input type="number" asp-for="FirstNumber">
+    </p>
+    <p>
+        <label asp-for="SecondNumber">Enter Second Number: </label>
+    </p>
+    <p>
+        <input type="number" asp-for="SecondNumber">
+    </p>
+    <p>
+        <input type="submit" value="Submit" >
+        <input type="reset" value="Reset" >
+    </p>
+</form>
+
+<h3>Result: @Model.Result</h3>

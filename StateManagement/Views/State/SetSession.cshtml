@@ -1,0 +1,17 @@
+﻿@using StateManagement.Models;
+
+@model UserModel
+
+<h1>Welcome to State Management</h1>
+<hr />
+<form asp-controller="state" asp-action="GetSession" method="post">
+    <p>
+    <label asp-for="username">Username: </label>
+    <input asp-for="username" placeholder="Enter a Username"/>
+    </p>
+    <p>
+        <input value="Submit" type="submit" />
+        <input value="Reset" type="reset" />
+    </p>
+
+</form>

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ClientSideValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE307D7-9BE6-46BA-978C-ADAA2428F406}|ClientSideValidation.csproj|c:\\users\\user\\source\\repos\\clientsidevalidation\\views\\studentcontact\\contactform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EE307D7-9BE6-46BA-978C-ADAA2428F406}|ClientSideValidation.csproj|solutionrelative:views\\studentcontact\\contactform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE307D7-9BE6-46BA-978C-ADAA2428F406}|ClientSideValidation.csproj|c:\\users\\user\\source\\repos\\clientsidevalidation\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EE307D7-9BE6-46BA-978C-ADAA2428F406}|ClientSideValidation.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE307D7-9BE6-46BA-978C-ADAA2428F406}|ClientSideValidation.csproj|c:\\users\\user\\source\\repos\\clientsidevalidation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EE307D7-9BE6-46BA-978C-ADAA2428F406}|ClientSideValidation.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE307D7-9BE6-46BA-978C-ADAA2428F406}|ClientSideValidation.csproj|c:\\users\\user\\source\\repos\\clientsidevalidation\\controllers\\studentcontactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE307D7-9BE6-46BA-978C-ADAA2428F406}|ClientSideValidation.csproj|solutionrelative:controllers\\studentcontactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE307D7-9BE6-46BA-978C-ADAA2428F406}|ClientSideValidation.csproj|c:\\users\\user\\source\\repos\\clientsidevalidation\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE307D7-9BE6-46BA-978C-ADAA2428F406}|ClientSideValidation.csproj|solutionrelative:models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClientSideValidation\\Views\\StudentContact\\ContactForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\StudentContact\\ContactForm.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClientSideValidation\\Views\\StudentContact\\ContactForm.cshtml",
+              "RelativeToolTip": "Views\\StudentContact\\ContactForm.cshtml",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAFwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T12:12:16.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClientSideValidation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClientSideValidation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T16:08:10.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClientSideValidation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClientSideValidation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T13:36:30.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClientSideValidation\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClientSideValidation\\Models\\StudentModel.cs",
+              "RelativeToolTip": "Models\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:34:47.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentContactController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClientSideValidation\\Controllers\\StudentContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentContactController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClientSideValidation\\Controllers\\StudentContactController.cs",
+              "RelativeToolTip": "Controllers\\StudentContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:26:29.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+﻿@model StudentModel
+
+<section>
+<h1>Student Form Registration</h1>
+<form asp-controller="Student" asp-action="StudentForm" method="post">
+    @Html.ValidationSummary()
+    <fieldset>
+        <legend>Enter the details: </legend>
+    <p>
+        <label asp-for="RegistrationNumber">Registration No: </label>
+    </p>
+    <p>
+        <input asp-for="RegistrationNumber" />
+    </p>
+    <p>
+        <label asp-for="Name">Name: </label>
+    </p>
+    <p>
+        <input asp-for="Name" />
+    </p>
+    <p>
+        <label asp-for="Email">Email: </label>
+    </p>
+    <p>
+        <input asp-for="Email" />
+    </p>
+    <p>
+        <input type="submit" value="Submit" />
+        <input type="reset" value="Reset" />
+    </p>
+    </fieldset>
+</form>
+</section>
+
+<section>
+<h2>Student's Details:</h2>
+<p>Registration No: </p>
+<p>@Model.RegistrationNumber</p>
+<p>Name: </p>
+<p>@Model.Name</p>
+<p>Email: </p>
+<p>@Model.Email</p>
+</section>
